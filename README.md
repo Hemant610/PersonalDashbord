@@ -25,13 +25,13 @@ A modern, responsive personal dashboard built with Next.js, featuring a clean an
 - Go to Dashboard Overview pic
 
 ### Experience Section
-Go to Dashboard Overview pic
+- Go to Dashboard Overview pic
 
 ### Skills Section
-Go to Dashboard Overview pic
+- Go to Dashboard Overview pic
 
 ### Hobbies Section
-Go to Dashboard Overview pic
+- Go to Dashboard Overview pic
 
 ## Tech Stack
 
