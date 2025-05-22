@@ -123,6 +123,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Hemant Yadav - [Your Email]
+Hemant Yadav - [My Email- yadavhemant610@gmail.com]
 
 Project Link: [https://github.com/your-username/personal-dashboard](https://github.com/your-username/personal-dashboard) 
