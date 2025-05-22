@@ -13,7 +13,9 @@ A modern, responsive personal dashboard built with Next.js, featuring a clean an
   - Work experience
   - Skills
   - Hobbies and interests
+ 
 
+## Persoal Dashboard Web App Link: https://dashbordpersonal.netlify.app/
 ## Screenshots
 
 ### Dashboard Overview
