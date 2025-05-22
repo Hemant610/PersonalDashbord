@@ -20,16 +20,16 @@ A modern, responsive personal dashboard built with Next.js, featuring a clean an
 ![Image](https://github.com/user-attachments/assets/1f512f18-72db-46e0-be11-21536c2b84e6)
 
 ### Profile Section
-![Profile Section](/public/images/profile-section.png)
+- Go to Dashboard Overview pic
 
 ### Experience Section
-![Experience Section](/public/images/experience-section.png)
+Go to Dashboard Overview pic
 
 ### Skills Section
-![Skills Section](/public/images/skills-section.png)
+Go to Dashboard Overview pic
 
 ### Hobbies Section
-![Hobbies Section](/public/images/hobbies-section.png)
+Go to Dashboard Overview pic
 
 ## Tech Stack
 
@@ -140,6 +140,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Hemant Yadav - [Your Email]
+Hemant Yadav - [my Email-yadavhemant610@gmail.com]
 
 Project Link: [https://github.com/your-username/personal-dashboard](https://github.com/your-username/personal-dashboard) 
